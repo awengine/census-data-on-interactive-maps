@@ -1,0 +1,28 @@
+.Map {
+    height: 100%;
+}
+
+/* vh: viewport heigh */
+.MapContent {
+    height: 90vh;
+}
+
+.Top {
+    display: flex;
+    background-color: aliceblue;
+    /* Align vertically */
+    align-items: baseline;
+    /* Align horizontally */
+    justify-content: flex-end;
+}
+@media screen and (min-width: 768px){
+    .Top {
+        justify-content: center;
+    }
+}
+
+.selectBox {
+    text-align: center;
+    padding: 10px;
+    margin-right: 10px;
+}
