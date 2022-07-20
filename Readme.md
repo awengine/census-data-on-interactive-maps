@@ -1,6 +1,6 @@
-**react-googleMaps-firebase-functions** provides the architecture skeleton using ReactJS, Google Maps API, Firebase Auth, Realtime Database, and Functions. 
+**census-data-on-interactive-maps** provides the architecture skeleton using ReactJS at the front end, backed up by Google Maps API, Firebase Auth, Realtime Database, and Functions. 
 
-The data embeded provides a visualized interface with ABS census data and NASA SEDAC geographical data for identifying locations based on census parameters, such as average age in North Sydney.
+The data embeded provides a visualized interface with Australian Bureau of Statistics (ABS) census data and NASA SEDAC geographical data for identifying locations based on census parameters, such as average income and age in North Sydney.
 
 # Functionalities
 * Display a map from Google Maps API onto ReactJS frontend
