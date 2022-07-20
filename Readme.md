@@ -3,7 +3,7 @@
 The data embeded provides a visualized interface with Australian Bureau of Statistics (ABS) census data and NASA SEDAC geographical data for identifying locations based on census parameters, such as average income and age in North Sydney.
 
 # App Architecture Diagram
-![architecture-census-data-on-interactive-maps](images/architecture-census-data-on-interactive-maps.jpg)
+![architecture-census-data-on-interactive-maps](images/architecture-census-data-on-interactive-maps.jpeg)
 
 # Functionalities
 * Display a map from Google Maps API onto ReactJS frontend
