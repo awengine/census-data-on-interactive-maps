@@ -5,6 +5,9 @@ The data embeded provides a visualized interface with Australian Bureau of Stati
 # App Architecture Diagram
 ![architecture-census-data-on-interactive-maps](images/architecture-census-data-on-interactive-maps.jpeg)
 
+# Final Output (aka Website UI)
+![homepage-census-data-on-interactive-maps](homepage-census-data-on-interactive-maps.jpg)
+
 # Functionalities
 * Display a map from Google Maps API onto ReactJS frontend
 * Get population density images from Cloud Storage and add them to the map
